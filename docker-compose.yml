@@ -33,6 +33,7 @@ services:
     ports:
       # Expõe a porta padrão da aplicação: altere aqui caso use outra porta
       - 3001:3001
+    platform: linux/amd64
     environment:
       - MONGO_URI=mongodb://mongodb:27017/CarShop
 
