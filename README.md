@@ -32,15 +32,10 @@ Neste projeto foi aplicado os seguintes conceitos:
 - Entre na pasta do repositório que você acabou de clonar:
   - `cd Project-Car-Shop`
 
-<details>
 
   > :information_source: Instale as dependências com `npm install`
 
   - ✨ Para rodar o projeto desta forma, obrigatoriamente você deve ter o `node` instalado em seu computador.
   - ✨ O avaliador espera que a versão do `node` utilizada seja a 16.
 
-  <br>
-</details>
 
-
-</details><br />
