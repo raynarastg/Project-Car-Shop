@@ -32,6 +32,7 @@ Neste projeto foi aplicado os seguintes conceitos:
 - Entre na pasta do repositório que você acabou de clonar:
   - `cd Project-Car-Shop`
 
+<br/>
 
   > :information_source: Instale as dependências com `npm install`
 
